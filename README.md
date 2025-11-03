@@ -96,4 +96,6 @@ Private Sub FilterBtn_Click(ByVal sender As Object, ByVal e As System.EventArgs)
 End Sub
 ```
 
+![Changing pagecount at runtime](DataGridWithDataPager.png)
+
 Here, records are filtered based on the textbox text in clicking event of Filter button. Initially PageCount is 5 and it is changed as 1 once the records are filtered.
